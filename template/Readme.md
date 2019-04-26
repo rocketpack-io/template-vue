@@ -1,6 +1,6 @@
-# {{ name }}
+# {( name )}
 
-> {{ description }}
+> This project is produced by [rocketpack-cli](https://github.com/rocketpack-io/rocketpack-cli)
 
 ## Build Setup
 
